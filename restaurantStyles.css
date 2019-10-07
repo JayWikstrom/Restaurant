@@ -1,0 +1,46 @@
+/*
+Creator: Jay Wikstrom
+Date created: 9/26/19
+Date last modified: 10/6/19
+*/
+
+
+header, footer {
+    background-color: lightblue;
+    color: white;
+    height: 175px;
+    text-align: center;
+    padding: 3px 10px 3px 10px;
+    color: black;
+}
+header{
+    height: 450px;
+}
+h1 {
+    font-family: dysentary, fantasy;
+    color: black;
+}
+h3{
+    font-weight: bold;
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+.topHeading {
+    text-align: left;
+}
+a:link{
+    color:orange
+}
+a:hover{
+    font-weight: bold;
+}
+a:link{
+    text-decoration: none;
+}
+nav .btn {
+    background-color: black;
+    color: white; 
+}
